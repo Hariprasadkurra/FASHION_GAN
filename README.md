@@ -1,9 +1,6 @@
-
-***
-
 # 👗 Fashion GAN – Deep Generative Model for Fashion Image Synthesis  
 
-> A deep learning project that leverages **Generative Adversarial Networks (GANs)** to create realistic fashion images using the **Fashion MNIST** dataset.  
+ A deep learning project that leverages **Generative Adversarial Networks (GANs)** to create realistic fashion images using the **Fashion MNIST** dataset.  
 
 ***
 
