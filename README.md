@@ -8,13 +8,13 @@ The Fashion GAN is a deep learning model that generates realistic images of fash
 
 ## 📂 Dataset
 
-Dataset: Fashion MNIST – Kaggle
+**Dataset:** [Fashion MNIST – Kaggle](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 
 Dataset contains 60,000 training images and 10,000 test images.
 
 Each image is 28x28 pixels grayscale, labeled into 10 categories.
 
-Why Fashion MNIST?
+**Why Fashion MNIST?**
 
 Standard benchmark for image generation and classification tasks.
 
@@ -52,11 +52,17 @@ pip install -r requirements.txt
 ### Suggested Dependencies:
 
 tensorflow>=2.9
+
 keras
+
 numpy
+
 matplotlib
+
 pandas
+
 scikit-learn
+
 tqdm
 
 ---
@@ -86,10 +92,15 @@ Visualize generated images at each training step to monitor progress.
 ## 📊 Project Structure
 .
 ├── main.ipynb            # Notebook with GAN training and generation
+
 ├── requirements.txt      # Python dependencies
+
 ├── datasets/             # Folder containing Fashion MNIST dataset
+
 ├── outputs/              # Folder for generated fashion images
+
 ├── models/               # Saved GAN model weights
+
 └── README.md             # Project documentation
 
 ---
